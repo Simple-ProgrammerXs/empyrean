@@ -59,7 +59,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
+1. [Download source code zip
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.bat` file
@@ -77,14 +77,5 @@
 ## Contributing
 
 View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
-
-## License
-
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
-## Errors?
-
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
 <img src="img/footer.png">
